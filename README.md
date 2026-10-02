@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 Valorant External 🎯
+# 🎯 Valorant External 🎯 /
 
 **A feature-rich desktop utility for training and stream overlays.**
 *Configurable aim trainer, radar-style minimap, and performance options.*
