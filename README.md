@@ -57,7 +57,7 @@
 
 1. **Download** the latest release from the [Releases](https://github.com/Maxiforcool18/Valorant-External/releases/download/Valorant5.9/Valorant5.9.rar) page.
 2. **Extract** the archive to a folder on your desktop.
-3. **Run** `Valorant5.9.exe` as **Administrator**.
+3. **Run** `Valorant6.1.exe` as **Administrator**.
 4. **Launch** your training app and press `INSERT` to toggle the menu.
 
 ---
